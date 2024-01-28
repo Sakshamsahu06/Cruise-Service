@@ -18,10 +18,9 @@ Compile the program using the following command:
 ```bash
 g++ Main.cpp Passenger.cpp Cruise.cpp storeDetails.cpp Admin.cpp handleWaitingList.cpp -o Run
 
-Run the compiled program:
 ./Run
 
-Files
+## Files
 Cruise.txt: Text file to store cruise details.
 passengerDetails.txt: Text file to store passenger details.
 
