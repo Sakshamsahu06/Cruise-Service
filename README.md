@@ -43,11 +43,3 @@ To run the program:
 ## Contributions
 
 Contributions to the Cruise Service Booking System are welcome! Feel free to submit issues, feature requests, or pull requests to help improve the system.
-
-## License
-
-This Cruise Service Booking System is open-source and available under the [MIT License](LICENSE).
-
----
-
-Feel free to customize the README according to your specific project details and requirements.
