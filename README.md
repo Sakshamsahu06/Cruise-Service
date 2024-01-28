@@ -1,38 +1,22 @@
-# Cruise Service
+File Structure
+The project has the following file structure:
 
-This Cruise Service project allows users to book journeys according to room types such as Economy, Business, and Deluxe. The code is implemented in C++ and consists of various files to handle different aspects of the service.
+Main.cpp: The main program entry point.
+Passenger.cpp: Implementation of Passenger class.
+Cruise.cpp: Implementation of Cruise class.
+storeDetails.cpp: Implementation of storeDetails class.
+Admin.cpp: Implementation of Admin class.
+handlingWaitingList.cpp: Implementation for managing waiting lists.
+README.md: Documentation file.
+Usage
+Upon running the program, users can interactively book journeys, view details, and administrators can manage cruise and passenger data.
 
-## Project Structure
-
-- `Main.cpp`: The main file to run the Cruise Service program.
-- `Passenger.cpp`: Implementation file for handling passenger details.
-- `Cruise.cpp`: Implementation file for handling cruise details.
-- `storeDetails.cpp`: Implementation file for storing and managing details in text files.
-- `Admin.cpp`: Implementation file for administrative functionalities.
-- `handlingWaitingList.cpp`: Implementation file for managing waiting lists.
-
-## Usage
-
-Compile the program using the following command:
-
-```bash
-g++ Main.cpp Passenger.cpp Cruise.cpp storeDetails.cpp Admin.cpp handleWaitingList.cpp -o Run
-
-./Run
-
-## Files
-Cruise.txt: Text file to store cruise details.
-passengerDetails.txt: Text file to store passenger details.
-
-How to Run
-Compile the program using the provided command.
-Run the compiled program.
-Follow the on-screen instructions to book journeys and manage cruise details.
-
-Features
-Booking: Users can book journeys based on different room types.
-Details Management: Administrative features to view and manage cruise and passenger details.
-Waiting List Handling: Efficiently handles waiting lists for fully booked rooms.
-
+File Descriptions
+Main.cpp: The main entry point of the program.
+Passenger.cpp: Contains the implementation of the Passenger class, representing passenger details.
+Cruise.cpp: Contains the implementation of the Cruise class, representing cruise details.
+storeDetails.cpp: Contains the implementation of the storeDetails class, responsible for storing and managing passenger data.
+Admin.cpp: Contains the implementation of the Admin class, providing functionalities for administrators.
+handlingWaitingList.cpp: Contains the implementation for managing waiting lists.
 Contributing
-Feel free to contribute to this Cruise Service project. If you have suggestions or find any issues, please open an issue or create a pull request.
+Contributions are welcome! If you have suggestions or find issues, please create an issue or submit a pull request.
