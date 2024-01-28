@@ -1,0 +1,34 @@
+Passenger Id: 		SAK984
+Cruise Id: 			IND026
+Name: 			Saksham
+Phone number: 		984561322
+Seat Type: 			Business
+Seats Booked: 		B122 
+Journey: 			Pondicherry ---> Goa
+Duration: 			03/02/24 | 02:00 ---> 03/02/24 | 17:30
+Status: 			Booked :)
+Total Fare(+GST): 		8022.82 Rs
+-------------------------------------------
+
+Passenger Id: 		SAK801
+Cruise Id: 			BHT220
+Name: 			Saksham Kumar
+Phone number: 		801845978
+Seat Type: 			Economy
+Seats Booked: 		E121 E216 
+Journey: 			Mumbai ---> Lakshdweep
+Duration: 			05/02/24 | 15:45 ---> 07/02/24 | 3:40
+Status: 			Booked :)
+Total Fare(+GST): 		10266 Rs
+-------------------------------------------
+Passenger Id: 		SAR855
+Cruise Id: 			TO125
+Name: 			sarvesh
+Phone number: 		8554563355
+Seat Type: 			Business
+Seats Booked: 		B24 
+Journey: 			Kochi ---> Lakshdweep
+Duration: 			01/02/24 | 13:00 ---> 03/02/24 | 15:00
+Status: 			Booked :)
+Total Fare(+GST): 		6643.4 Rs
+-------------------------------------------
